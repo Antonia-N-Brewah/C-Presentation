@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1574757107 source:c:\users\corne\onedrive\desktop\c++presentation\group members check list\main.cpp
+	<iostream>
+	<cmath>
+	<cstdlib>
+	<cstring>
+
